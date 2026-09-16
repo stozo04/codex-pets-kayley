@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "package": "C:\\Users\\gates\\Personal\\desktop-pal\\curly-pet-jeans\\package\\curly",
+  "zip": "C:\\Users\\gates\\Personal\\desktop-pal\\curly-pet-jeans\\Curly-Jeans.zip",
+  "spriteVersionNumber": 2,
+  "sha256": "016b65b831703207fa8868d64daf8d7ac05dc9ec74876eaba19a6582a259e9c1",
+  "spritesheet_bytes": 1362978,
+  "states": 9,
+  "look_directions": 16,
+  "all_required_qa_present_and_passed": true,
+  "minor_warnings_reviewed": true
+}

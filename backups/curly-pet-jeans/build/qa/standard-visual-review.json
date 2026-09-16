@@ -1,0 +1,24 @@
+{
+  "timing": "GIF frame durations inspected and valid",
+  "ok": true,
+  "repair_rows": [],
+  "warnings": [
+    "Subtle idle blink",
+    "Minor generated face and hair variation",
+    "Stylized high-heel running",
+    "Intermediate chroma fringe pending final native cleanup"
+  ],
+  "reviewer": "independent jeans_standard_qa",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "jumping": "Stable scale and lift; bboxes 46..203, 10..187, 5..172, 18..192, 40..203; no clipped edges"
+}

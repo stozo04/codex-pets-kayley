@@ -1,0 +1,89 @@
+{
+  "reviewer": "blind_b",
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-right",
+      "reason": "Both noses and visible eye lines point right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose projects right; B left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A right profile; B left profile."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Visible nose right for A and left for B."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A face right; B nose/gaze left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Downward tilt but A nose right and B left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Nearly frontal/downward, lateral direction unreadable."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes/chin lowered; B chin raised and face upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A gaze/chin lowered; B face raised."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Chiefly sideward; no clear vertical pitch at this size."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin lifted; B chin/gaze downward."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowered gaze/chin; B raised chin/eyes."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "up",
+      "reason": "Both chins and eyes visibly raised."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Change is lateral/profile-like; vertical pitch unclear."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "independent jeans_final_qa",
+  "actual_wrong_quadrant_or_reversal": [],
+  "evidence": {
+    "315": "Leftward nose/cheeks between 292.5 and 337.5, raised chin.",
+    "045": "Rightward nose and cheeks fit adjacent 022.5 and 067.5; chin remains upward.",
+    "067.5": "Right yaw with chin slightly above level 090; no downward reversal.",
+    "112.5": "Right yaw and initial chin lowering toward clearly down-right 135.",
+    "157.5": "Unmistakable down pitch and slight right yaw before centered 180.",
+    "202.5": "Unmistakable down pitch and initial left yaw before corrected 225.",
+    "247.5": "Strong left yaw, chin slightly lower than level 270."
+  },
+  "note": "All cardinal hard gates pass. Repaired 225 passes both axes. Intermediate blind disagreements do not reveal an actual wrong quadrant or visible reversal."
+}

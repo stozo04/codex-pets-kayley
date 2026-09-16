@@ -1,0 +1,7 @@
+{
+  "classification": "wrong-quadrant blocker",
+  "visual_qa": "fail",
+  "action": "Regenerate complete coherent row 10, preserving all other valid properties; do not replace an isolated cell.",
+  "degree": "225",
+  "evidence": "Independent labeled follow-up agrees with blind majority: leftward yaw is correct but chin/nose lift reads up-left rather than down-left."
+}

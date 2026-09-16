@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet Curly.
+
+Pet identity: The approved adult woman in canonical-base.png: natural ocean-blue eyes, same face and warm skin, long voluminous dark brown curls swept to one side, fitted red sleeveless top, gold hoop earrings and pendant, blue denim miniskirt and black open-toe stiletto high heels. Preserve her exact adult proportions, face, hair, eye color, outfit and detailed rendering in every pose. Full body, no new props..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Match the approved first reference exactly in rendering, likeness, proportions, and rich detail. Clean complete silhouette, crisp opaque edges, flat chroma background, no ground shadow. Shoes have distinct slender tall heels structurally attached to soles..
+
+
+Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.

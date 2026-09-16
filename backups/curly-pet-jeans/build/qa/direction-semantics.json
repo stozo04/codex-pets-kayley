@@ -1,0 +1,158 @@
+{
+  "visual_qa": "pass",
+  "reviewed_by": "independent jeans_final_qa, fresh review of repaired row 10",
+  "qa_note": "All cardinal directions and quadrants pass. Corrected 225 reads down-left. Identity, outfit, body anchor and scale remain coherent. No required repairs.",
+  "repair_rows": [],
+  "warnings": [
+    "Stronger 157.5 to 180 recentering without conspicuous pop",
+    "Stronger 202.5 to 225 change after correcting pitch, directionally coherent",
+    "Stronger 337.5 to 000 frontal return, body anchored",
+    "Minor close-up face and curl detail variation"
+  ],
+  "directions": [
+    {
+      "degree": "000",
+      "verdict": "warning",
+      "expected": "up",
+      "observed": "Centered face with chin, nose and eyes raised.",
+      "horizontal_evidence": "Nose/chin centered on body.",
+      "vertical_evidence": "Raised chin and jaw underside clearly show up.",
+      "reason": "Correct cardinal; stronger loop-boundary recentering is a minor continuity warning."
+    },
+    {
+      "degree": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Lifted face begins turning right.",
+      "horizontal_evidence": "Nose slightly right of torso center.",
+      "vertical_evidence": "Elevated chin and eye line.",
+      "reason": "Correct clockwise first step."
+    },
+    {
+      "degree": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Face farther right with raised chin.",
+      "horizontal_evidence": "Rightward nose and asymmetric cheeks.",
+      "vertical_evidence": "Lifted chin retains upper quadrant.",
+      "reason": "Correct diagonal."
+    },
+    {
+      "degree": "067.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Head approaches right while mildly elevated.",
+      "horizontal_evidence": "Nose and face point strongly right.",
+      "vertical_evidence": "Chin slightly above 090.",
+      "reason": "Smooth approach to right."
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "Clear screen-right turn, far cheek occluded, body forward.",
+      "horizontal_evidence": "Nose projects to screen-right.",
+      "vertical_evidence": "Near-level pitch.",
+      "reason": "Unambiguous anchored cardinal."
+    },
+    {
+      "degree": "112.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Head stays right as chin and gaze lower.",
+      "horizontal_evidence": "Nose right of center.",
+      "vertical_evidence": "Lower chin/eyes than 090.",
+      "reason": "Correct clockwise move toward down."
+    },
+    {
+      "degree": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Face points down and right.",
+      "horizontal_evidence": "Clear rightward nose.",
+      "vertical_evidence": "Lowered chin and eyes.",
+      "reason": "Readable diagonal, stable identity."
+    },
+    {
+      "degree": "157.5",
+      "verdict": "warning",
+      "expected": "down-right",
+      "observed": "Lowered head retains slight rightward yaw.",
+      "horizontal_evidence": "Nose/chin slightly right.",
+      "vertical_evidence": "Strong downward pitch.",
+      "reason": "Correct direction; stronger transition into 180 without visible pop."
+    },
+    {
+      "degree": "180",
+      "verdict": "warning",
+      "expected": "down",
+      "observed": "Centered face, chin and eyes lowered.",
+      "horizontal_evidence": "Nose/chin centered.",
+      "vertical_evidence": "Tucked chin, lowered gaze, more crown.",
+      "reason": "Correct cardinal; recentering is stronger but not a reversal."
+    },
+    {
+      "degree": "202.5",
+      "verdict": "warning",
+      "expected": "down-left",
+      "observed": "Lowered head and gaze turn slightly left.",
+      "horizontal_evidence": "Face landmarks left of 180.",
+      "vertical_evidence": "Chin and eyes downward.",
+      "reason": "Correct; next change into 225 is stronger but coherent."
+    },
+    {
+      "degree": "225",
+      "verdict": "warning",
+      "expected": "down-left",
+      "observed": "Face left with visibly lowered nose, chin and eyes.",
+      "horizontal_evidence": "Nose clearly left, correct cheek occlusion.",
+      "vertical_evidence": "Tucked chin and downward eyes, unlike old version.",
+      "reason": "Wrong-quadrant defect fixed; stronger preceding step is an accepted continuity warning."
+    },
+    {
+      "degree": "247.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Strongly left-facing head, mildly lowered.",
+      "horizontal_evidence": "Nose approaches left cardinal.",
+      "vertical_evidence": "Chin below 270.",
+      "reason": "Correct smooth approach to left."
+    },
+    {
+      "degree": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "Clear left turn, opposite cheek visible, body anchored.",
+      "horizontal_evidence": "Nose projects screen-left.",
+      "vertical_evidence": "Near-level pitch.",
+      "reason": "Unambiguous left cardinal."
+    },
+    {
+      "degree": "292.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Left-facing head begins lifting.",
+      "horizontal_evidence": "Nose clearly left.",
+      "vertical_evidence": "Chin above 270.",
+      "reason": "Correct rising upper-left step."
+    },
+    {
+      "degree": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Face clearly up and left.",
+      "horizontal_evidence": "Leftward nose and cheek geometry.",
+      "vertical_evidence": "Raised chin and upward facial plane.",
+      "reason": "Readable stable diagonal."
+    },
+    {
+      "degree": "337.5",
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": "Strongly lifted head, slightly left-facing.",
+      "horizontal_evidence": "Nose/chin just left of center.",
+      "vertical_evidence": "Raised chin approaches up.",
+      "reason": "Correct; stronger frontal return at 000 has no conspicuous snap."
+    }
+  ]
+}

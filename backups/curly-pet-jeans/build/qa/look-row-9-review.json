@@ -1,0 +1,16 @@
+{
+  "semantics": {
+    "045": "pass: both rightward and upward head/eye direction",
+    "067.5": "pass: stronger right yaw, slight upward pitch",
+    "112.5": "pass: rightward face with lowered chin",
+    "022.5": "pass: slight right yaw with raised chin",
+    "000": "pass: centered face/chin and eyes raised",
+    "157.5": "warning: clear down-right quadrant, rightward cue remains somewhat strong near down; no reversal",
+    "135": "pass: stronger down pitch while facing right",
+    "090": "pass: nose and face project screen-right"
+  },
+  "ok": true,
+  "geometry": "Native registration and final-cell edge checks passed",
+  "reviewed_by": "parent",
+  "continuity": "Same feet, lower body and scale; clockwise head progression, no reversals or jumps"
+}

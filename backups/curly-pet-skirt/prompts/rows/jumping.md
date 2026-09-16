@@ -1,0 +1,18 @@
+Create one horizontal animation strip for Codex pet `curly`, state `jumping`.
+
+Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
+
+Output exactly 5 full-body frames in one left-to-right row on flat pure magenta #FF00FF. Treat the row as 5 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
+
+Identity: same pet in every frame: The approved adult woman in canonical-base.png: natural ocean-blue eyes, same face and warm skin, long voluminous dark brown curls swept to one side, fitted red sleeveless top, gold hoop earrings and pendant, blue denim miniskirt and black open-toe stiletto high heels. Preserve her exact adult proportions, face, hair, eye color, outfit and detailed rendering in every pose. Full body, no new props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Match the approved first reference exactly in rendering, likeness, proportions, and rich detail. Clean complete silhouette, crisp opaque edges, flat chroma background, no ground shadow. Shoes have distinct slender tall heels structurally attached to soles..
+Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
+
+State action: Hover jump loop: anticipation, lift, airborne peak, descent, and settle through body height.
+
+State requirements:
+- Show the jump through pose and vertical body position only: anticipation, lift, airborne peak, descent, settle.
+- Do not draw ground shadows, contact shadows, drop shadows, oval shadows, landing marks, dust, smears, bounce pads, or motion marks under the pet.
+- Keep the background outside the pet perfectly flat chroma key with no darker key-colored patches.
+
+Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.

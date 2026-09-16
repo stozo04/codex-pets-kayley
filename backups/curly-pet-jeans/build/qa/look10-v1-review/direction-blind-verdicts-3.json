@@ -1,0 +1,89 @@
+{
+  "reviewer": "blind_c",
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A face/nose right; B facial plane/nose left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A face on right of hair; B face on left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose/eyes right; B left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A profile left; B right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose/cheek right; B face/nose left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A head/landmarks right; B left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose/face left; B face right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "ambiguous",
+      "B": "up",
+      "reason": "A nearly frontal/level; B raised chin/upward face."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A chin/nose down; B raised chin/upward face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "down",
+      "reason": "Both profiles nose/chin dipping down."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin slightly raised; B nose/chin drops."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "ambiguous",
+      "B": "up",
+      "reason": "A frontal no clear elevation; B chin/gaze slightly up."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A face slopes down; B chin/plane raised."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "down",
+      "reason": "Both noses/chins down rather than raised."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "package": "C:\\Users\\gates\\.codex\\pets\\curly",
+  "spritesheet": "C:\\Users\\gates\\.codex\\pets\\curly\\spritesheet.webp",
+  "spritesheet_sha256": "016b65b831703207fa8868d64daf8d7ac05dc9ec74876eaba19a6582a259e9c1",
+  "states": 9,
+  "look_directions": 16,
+  "validation": "C:\\Users\\gates\\Personal\\desktop-pal\\curly-pet-jeans\\build\\final\\validation-extended.json",
+  "direction_semantics": "C:\\Users\\gates\\Personal\\desktop-pal\\curly-pet-jeans\\build\\qa\\direction-semantics.json",
+  "blind_direction_validation": "C:\\Users\\gates\\Personal\\desktop-pal\\curly-pet-jeans\\build\\qa\\direction-blind-validation.json",
+  "blind_review_resolution": "C:\\Users\\gates\\Personal\\desktop-pal\\curly-pet-jeans\\build\\qa\\blind-review-resolution.json",
+  "minor_gaze_warnings_reviewed": true,
+  "miniskirt_archive": "C:\\Users\\gates\\Personal\\desktop-pal\\archives\\curly-miniskirt-preserved-20260906-220555.zip",
+  "preserved_files_reverified": 144,
+  "ui_selection": "Refresh Pets and choose Curly; native menu interaction not automated",
+  "completed_at": "2026-09-07T03:54:52.870524+00:00"
+}
